@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep \"^public class\" /Users/christianherrera/Documents/Projects/Unity/COMP565VR/Assets/Scripts/*.cs)"
+    ]
+  }
+}
